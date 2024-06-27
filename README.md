@@ -15,7 +15,7 @@ Para executar este projeto em seu ambiente local, siga as instruções abaixo:
 - Python
 - Django
 
-## Passos para Execução
+### Passos para Execução
 
 1. Clone este repositório em seu computador:
    ```bash
