@@ -18,11 +18,9 @@ Para executar este projeto em seu ambiente local, siga as instruções abaixo:
 ##Passos para Execução
 
 1. Clone este repositório em seu computador:
-   ```
-   bash
+   ```bash
    git clone https://github.com/RicardoCastellani/sistema_de_cadastro
 
 2. Navegue até o diretório do projeto:
-   ```
-   bash
+   ```bash
    cd sistema_de_cadastro
