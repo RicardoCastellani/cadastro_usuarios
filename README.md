@@ -4,9 +4,7 @@ Este projeto é um sistema de cadastro desenvolvido em Python utilizando o frame
 
 ## Funcionalidades
 
-- Cadastro de novos usuários com campos personalizados.
-- Autenticação de usuários registrados.
-- Interface de administração para gerenciamento de usuários.
+- Cadastro de novos usuários num banco de dados
 
 ## Executando o Projeto Localmente
 
