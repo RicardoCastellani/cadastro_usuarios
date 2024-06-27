@@ -15,7 +15,7 @@ Para executar este projeto em seu ambiente local, siga as instruções abaixo:
 - Python
 - Django
 
-##Passos para Execução
+## Passos para Execução
 
 1. Clone este repositório em seu computador:
    ```bash
@@ -24,3 +24,19 @@ Para executar este projeto em seu ambiente local, siga as instruções abaixo:
 2. Navegue até o diretório do projeto:
    ```bash
    cd sistema_de_cadastro
+
+3. Instale as dependências necessárias:
+   ```bash
+   pip install -r requirements.txt
+
+4. Execute as migrações do Django para configurar o banco de dados:
+   ```bash
+   python manage.py migrate
+
+5. Inicie o servidor de desenvolvimento:
+   ```bash
+   python manage.py runserver
+
+6. Acesse o site em seu navegador através do endereço:
+   ```bash
+   http://localhost:8000/
