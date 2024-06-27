@@ -10,9 +10,7 @@ Este projeto é um sistema de cadastro desenvolvido em Python utilizando o frame
 
 Para executar este projeto em seu ambiente local, siga as instruções abaixo:
 
-### Pré-requisitos
+### Requisitos
 
-Certifique-se de ter o Python e o Django instalados em seu sistema. Você pode instalá-los usando o seguinte comando:
-
-```bash
-pip install django
+- Python
+- Django
